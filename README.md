@@ -13,6 +13,9 @@ A full-stack Todo application built for the Katomaran Hackathon.
 - **Backend (Render)** 👉 [API Server](https://todo-backend-o2ho.onrender.com/)
 
 ## Frontend + Backend project Link  -->  [App link](https://todo-frontend-nyyjdpgbq-nivas-projects-03ed492c.vercel.app/)
+
+👉 [Click to Watch on Loom](https://www.loom.com/share/465ebe43fca54fab8f6f7029a6cd4756?sid=a6a29b42-ea0c-4abe-9540-d3ee52dc2b0f)
+
 ## 🚀 Features
 
 - OAuth2 Login with Google
