@@ -14,7 +14,8 @@ A full-stack Todo application built for the Katomaran Hackathon.
 
 ## Frontend + Backend project Link  -->  [App link](https://todo-frontend-nyyjdpgbq-nivas-projects-03ed492c.vercel.app/)
 
- -  **Loom Video👉 [Click to Watch on Loom](https://www.loom.com/share/465ebe43fca54fab8f6f7029a6cd4756?sid=a6a29b42-ea0c-4abe-9540-d3ee52dc2b0f)
+## Loom Demo video
+- **Loom Video👉 [Click to Watch on Loom](https://www.loom.com/share/465ebe43fca54fab8f6f7029a6cd4756?sid=a6a29b42-ea0c-4abe-9540-d3ee52dc2b0f)
 
 ## 🚀 Features
 
