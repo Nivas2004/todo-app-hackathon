@@ -30,7 +30,8 @@ A full-stack Todo application built for the Katomaran Hackathon.
 
 ## 📐 Architecture
 
-![App Architecture](./App Architecture.png)
+![Architecture](./assets/architecture.png)
+
 
 ## 🔧 Tech Stack
 
