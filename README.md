@@ -2,6 +2,17 @@
 
 A full-stack Todo application built for the Katomaran Hackathon.
 
+## 🔗 Live Links
+
+- 🌐 **Frontend (Vercel)**: [https://todo-frontend-ruby-delta.vercel.app](https://todo-frontend-ruby-delta.vercel.app)
+- 🔧 **Backend (Render)**: [https://todo-backend-o2ho.onrender.com](https://todo-backend-o2ho.onrender.com)
+  
+## 🚀 Deployment
+
+- **Frontend (Vercel)** 👉 [Live App](https://todo-frontend-ruby-delta.vercel.app)
+- **Backend (Render)** 👉 [API Server](https://todo-backend-o2ho.onrender.com/)
+
+## Frontend + Backend project Link  -->  [App link](https://todo-frontend-nyyjdpgbq-nivas-projects-03ed492c.vercel.app/)
 ## 🚀 Features
 
 - OAuth2 Login with Google
